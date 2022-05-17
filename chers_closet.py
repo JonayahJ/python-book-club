@@ -1,4 +1,4 @@
-# Depencies
+# Dependencies
 import random
 
 # Lists
@@ -35,7 +35,7 @@ accessories = [
     "white feather backpack",
     "black beret",
     "double golden cross necklace",
-    "white thigh high socks",
+    "white thigh high socks"
 ]
 
 # Variables
